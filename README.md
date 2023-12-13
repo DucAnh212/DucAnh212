@@ -5,7 +5,10 @@ My name is Duc Anh a.k.a A lifelong learner who loves to delve into data to defi
   (03/2023- 07/2023)
 - Indovina Bank Ltd | Relationship Manager | Part-time (08/2022- 01/2023 )
 # 🌱 Personal soft skills and toolsets:
-- Toolsets: SQL (including Syntax (Query, Filter, Join), Data Manipulation), PowerBI (Power Query, DAX, Design Dashboard), MOS (Excel, PowerPoint, Word)
+Toolsets:
+- SQL (including Syntax (Query, Filter, Join), Data Manipulation)
+- PowerBI (Power Query, DAX, Design Dashboard)
+- MOS (Excel, PowerPoint, Word)
 # 😄 My Project :
 - E-commerce Dataset Exploration using BigQuery (using SQL)
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/E-commerce_Analysis_DA
