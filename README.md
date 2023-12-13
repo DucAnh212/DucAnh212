@@ -1,4 +1,4 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
 My name is Duc Anh a.k.a A lifelong learner who loves to delve into data to define business problems and seek the highest insights with determination by skills and knowledge gained from practical projects through a Data Analyst Course. I am looking for challenges in a structured and professional organization to fully improve my skills and passion in the Data industry
 # 🔭 My  personal work experience
 - VIETNAM JOINT STOCK COMMERCIAL BANK FOR INDUSTRY AND TRADE - Relationship Manager (Probationary Contract) | Full-time
