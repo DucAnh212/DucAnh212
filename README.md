@@ -8,15 +8,18 @@ My name is Duc Anh a.k.a A lifelong learner who loves to delve into data to defi
 Toolsets:
 - SQL (including Syntax (Query, Filter, Join), Data Manipulation)
 - PowerBI (Power Query, DAX, Design Dashboard)
-- MOS (Excel, PowerPoint, Word)
+- Python: PyCharm, GoogleColab, JupyterNotebook (Numpy, Pandas, Matplotlib, Seaborn)
+- Excel and Google sheet: Pivot table, dashboard, index, vlookup, aggregate function
 # 😄 My Project :
 - E-commerce Dataset Exploration using BigQuery (using SQL)
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/E-commerce_Analysis_DA
+- RFM ANALYSIS (using Python)
+  This is my work (pls take a look at it⚡):
 - Global Superstore: Strategic Market Expansion & Product Selection (using Power BI)
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection
 # 👯 Personal Certification and Education:
 - My Certification: Hackerrank|Advanced SQL, Datacamp|SQL,PowerBI, MOS|Word, Excel, PowerPoint, IELTS 6.0, GOOGLE|FUNDAMENTALS OF DIGITAL MARKETING|August 24, 2023
-- Education: BANKING ACADEMY OF VIETNAM| Bachelor in Finance and Banking | 2018-2022, GPA 2.89
+- Education: BANKING ACADEMY OF VIETNAM| Bachelor in Finance and Banking | 2018-2022, GPA 3.0
 
 
 
