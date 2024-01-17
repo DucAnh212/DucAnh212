@@ -18,8 +18,15 @@ Toolsets:
 - Global Superstore: Strategic Market Expansion & Product Selection (using Power BI)
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection
 # 👯 Personal Certification and Education:
-- My Certification: Hackerrank|Advanced SQL, Datacamp|SQL,PowerBI, MOS|Word, Excel, PowerPoint, IELTS 6.0, GOOGLE|FUNDAMENTALS OF DIGITAL MARKETING|August 24, 2023
-- Education: BANKING ACADEMY OF VIETNAM| Bachelor in Finance and Banking | 2018-2022, GPA 3.0
+- My Certification:
+  + Hackerrank|Advanced SQL\
+  + Datacamp|SQL,PowerBI, Python
+  + MOS|Word, Excel, PowerPoint
+  + IELTS 6.0
+  + GOOGLE|FUNDAMENTALS OF DIGITAL MARKETING|August 24, 2023
+- Education:
+  + BANKING ACADEMY OF VIETNAM| Bachelor in Finance and Banking | 2018-2022
+  + GPA 3.0
 
 
 
