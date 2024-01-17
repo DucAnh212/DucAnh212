@@ -19,7 +19,7 @@ Toolsets:
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection
 # 👯 Personal Certification and Education:
 - My Certification:
-  + Hackerrank|Advanced SQL\
+  + Hackerrank|Advanced SQL
   + Datacamp|SQL,PowerBI, Python
   + MOS|Word, Excel, PowerPoint
   + IELTS 6.0
