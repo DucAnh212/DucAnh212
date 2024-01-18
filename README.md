@@ -14,7 +14,7 @@ Toolsets:
 - E-commerce Dataset Exploration using BigQuery (using SQL)
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/E-commerce_Analysis_DA
 - RFM ANALYSIS (using Python)
-  This is my work (pls take a look at it⚡):
+  This is my work (pls take a look at it⚡): https://github.com/DucAnh212/RFM-ANALYSIS-Using-Python.git
 - Global Superstore: Strategic Market Expansion & Product Selection (using Power BI)
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection
 # 👯 Personal Certification and Education:
