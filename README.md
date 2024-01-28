@@ -15,6 +15,8 @@ Toolsets:
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/E-commerce_Analysis_DA
 - RFM ANALYSIS (using Python)
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/RFM-ANALYSIS-Using-Python.git
+-  Analysis-Test-Technology-Domain (Using Python):
+  This is my work (pls take a look at it⚡): https://github.com/DucAnh212/Analyze-Test-Technology-Domain
 - Global Superstore: Strategic Market Expansion & Product Selection (using Power BI)
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection
 # 👯 Personal Certification and Education:
