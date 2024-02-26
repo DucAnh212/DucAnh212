@@ -19,6 +19,8 @@ Toolsets:
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/Analyze-Test-Technology-Domain
 - Global Superstore: Strategic Market Expansion & Product Selection (using Power BI)
   This is my work (pls take a look at it⚡): https://github.com/DucAnh212/Global-Superstore-Strategic-Market-Expansion-Product-Selection
+- Machine Learning: Predicting Churned user
+  This is my work (pls take a look at it ⚡): https://github.com/DucAnh212/MACHINE-LEARNING-PROJECT
 # 👯 Personal Certification and Education:
 - My Certification:
   + Hackerrank|Advanced SQL
